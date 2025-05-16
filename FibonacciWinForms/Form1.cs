@@ -14,18 +14,31 @@ namespace FibonacciWinForms
                 textBox1.Clear();
                 textBox1.Focus();
             }
-
-            int first = 1;
-            int second = 0;
-            int third = 0;
-
-            for (int i = 0; i < number; i++) {
-                third = first + second;
-                first = second;
-                second = third;
+            
+            if (number < 0) {
+                textBox2.Text = $"-1";
+                return;
+            }
+            if (number == 0) {
+                textBox2.Text = $"0";
+                return;
+            }
+            if (number == 1) {
+                textBox2.Text = $"1";
+                return;
             }
 
-            textBox2.Text = $"{third}";
+            int first = 0;
+            int second = 1;
+            int next = 0;
+
+            for (int i = 2; i < number; i++) {
+                next = first + second;
+                first = second;
+                second = next;
+            }
+
+            textBox2.Text = $"{second}";
         }
     }
 }
