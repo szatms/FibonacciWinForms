@@ -1,0 +1,16 @@
+D:\Portfolio\CSharpDev\FibonacciWinForms\FibonacciWinForms\bin\Debug\net8.0-windows\FibonacciWinForms.exe
+D:\Portfolio\CSharpDev\FibonacciWinForms\FibonacciWinForms\bin\Debug\net8.0-windows\FibonacciWinForms.deps.json
+D:\Portfolio\CSharpDev\FibonacciWinForms\FibonacciWinForms\bin\Debug\net8.0-windows\FibonacciWinForms.runtimeconfig.json
+D:\Portfolio\CSharpDev\FibonacciWinForms\FibonacciWinForms\bin\Debug\net8.0-windows\FibonacciWinForms.dll
+D:\Portfolio\CSharpDev\FibonacciWinForms\FibonacciWinForms\bin\Debug\net8.0-windows\FibonacciWinForms.pdb
+D:\Portfolio\CSharpDev\FibonacciWinForms\FibonacciWinForms\obj\Debug\net8.0-windows\FibonacciWinForms.Form1.resources
+D:\Portfolio\CSharpDev\FibonacciWinForms\FibonacciWinForms\obj\Debug\net8.0-windows\FibonacciWinForms.csproj.GenerateResource.cache
+D:\Portfolio\CSharpDev\FibonacciWinForms\FibonacciWinForms\obj\Debug\net8.0-windows\FibonacciWinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portfolio\CSharpDev\FibonacciWinForms\FibonacciWinForms\obj\Debug\net8.0-windows\FibonacciWinForms.AssemblyInfoInputs.cache
+D:\Portfolio\CSharpDev\FibonacciWinForms\FibonacciWinForms\obj\Debug\net8.0-windows\FibonacciWinForms.AssemblyInfo.cs
+D:\Portfolio\CSharpDev\FibonacciWinForms\FibonacciWinForms\obj\Debug\net8.0-windows\FibonacciWinForms.csproj.CoreCompileInputs.cache
+D:\Portfolio\CSharpDev\FibonacciWinForms\FibonacciWinForms\obj\Debug\net8.0-windows\FibonacciWinForms.dll
+D:\Portfolio\CSharpDev\FibonacciWinForms\FibonacciWinForms\obj\Debug\net8.0-windows\refint\FibonacciWinForms.dll
+D:\Portfolio\CSharpDev\FibonacciWinForms\FibonacciWinForms\obj\Debug\net8.0-windows\FibonacciWinForms.pdb
+D:\Portfolio\CSharpDev\FibonacciWinForms\FibonacciWinForms\obj\Debug\net8.0-windows\FibonacciWinForms.genruntimeconfig.cache
+D:\Portfolio\CSharpDev\FibonacciWinForms\FibonacciWinForms\obj\Debug\net8.0-windows\ref\FibonacciWinForms.dll
